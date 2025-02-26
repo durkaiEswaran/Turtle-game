@@ -37,4 +37,4 @@ If you want to contribute to the project, feel free to fork the repository and s
 ## License
 This project is licensed under the MIT License.
 ## Screenshots
-![Turtle Race Game](screenshot(34).png)
+![Turtle-game](Screenshot (34).png)
